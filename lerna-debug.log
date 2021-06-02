@@ -1,0 +1,11 @@
+0 silly argv {
+0 silly argv   _: [ 'add' ],
+0 silly argv   globs: [],
+0 silly argv   lernaVersion: '4.0.0',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: 'rollup'
+0 silly argv }
+1 notice cli v4.0.0
+2 verbose rootPath /Users/zhangyan/studyspace/lerna-demo
+3 error Error: 403 Forbidden - GET https://npm.xesv5.com/rollup
+3 error     at /Users/zhangyan/.nvm/versions/node/v12.19.0/lib/node_modules/lerna/node_modules/npm-registry-fetch/check-response.js:123:15
