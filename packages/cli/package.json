@@ -1,6 +1,6 @@
 {
   "name": "cli",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "测试",
   "keywords": [
     "测试"
@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "chalk": "^4.1.1",
-    "cli-share-utils": "^0.0.0"
+    "cli-share-utils": "^0.0.1"
   }
 }
